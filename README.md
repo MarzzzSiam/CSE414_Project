@@ -10,4 +10,4 @@ prediction = model.predict(input_text)
 
 print(prediction)
 ```
-<img src="/Images/Sentiment_Meme.png" width="200" height="200">
+<img src="/Images/Sentiment_Meme.png" width="400" height="400">
