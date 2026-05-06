@@ -3,7 +3,7 @@
 
 It showcases a group project of CSE-414 (Machine Learning & Deep Learning Lab) conducted by *Faria Zarin Subah, Assistant Professor, UAP*.
 
-## ⏵Run Model
+### ⏵Run Model
 ```python
 input_text = "আপনি কি চমু নাকি?"
 prediction = model.predict(input_text)
