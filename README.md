@@ -10,4 +10,4 @@ prediction = model.predict(input_text)
 
 print(prediction)
 ```
-![This is an alt text.](/Images/Sentiment_Meme.png "TOXIC!")
+<img src="/Images/Sentiment_Meme.png" width="200" height="200">
