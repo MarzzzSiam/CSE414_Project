@@ -2,3 +2,12 @@
 **Title:** Multi-Class Sentiment Analysis of Bangla Social Media Comments using Machine Learning &amp; Deep Learning.
 
 It showcases a group project of CSE-414 (Machine Learning & Deep Learning Lab) conducted by *Faria Zarin Subah, Assistant Professor, UAP*.
+
+## ⏵Run Model
+```python
+input_text = "আপনি কি চমু নাকি?"
+prediction = model.predict(input_text)
+
+print(prediction)
+```
+![This is an alt text.](/Images/Sentiment_Meme.png "TOXIC!")
