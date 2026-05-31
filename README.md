@@ -1,7 +1,7 @@
-# CSE414 (Group Project)
-**Title:** Multi-Class Sentiment Analysis of Bangla Social Media Comments using Machine Learning &amp; Deep Learning.
+# CSE414 (Project)
+**Title:** A Comparative Study of Bangla Sentiment Classification using Machine Learning, Deep Learning and Transformer Models.
 
-It showcases a group project of CSE-414 (Machine Learning & Deep Learning Lab) conducted by *Faria Zarin Subah, Assistant Professor, UAP*.
+It showcases a project of CSE-414 (Machine Learning & Deep Learning Lab) conducted by *Faria Zarin Subah, Assistant Professor, UAP*.
 
 ### ⏵Run Model
 ```python
