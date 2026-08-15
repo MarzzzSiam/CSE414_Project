@@ -1,5 +1,5 @@
 # CSE414 (Project)
-**Title:** A Comparative Study of Bangla Sentiment Classification using Machine Learning, Deep Learning and Transformer Models.
+**Title:** Fine-Grained Bangla Toxic Comment Classification: A Comparative Study of Machine Learning, Deep Learning, and Transformer Models.
 
 It showcases a project of CSE-414 (Machine Learning & Deep Learning Lab) conducted by *Faria Zarin Subah, Assistant Professor, UAP*.
 
